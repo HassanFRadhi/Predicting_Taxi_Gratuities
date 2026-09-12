@@ -13,7 +13,7 @@ For this reason, the main business problem of this project was to identify the f
 ## Data Understanding
 
 The data used in this project came from the [NYC Taxi and Limousine Commission](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
-The dataset contained approximately 408,000 taxi trips and 18 features for each trip. These features included information such as trip duration, trip distance, destination, vendor, tolls, payment type, and fare amount.
+The dataset contained approximately 22,699 taxi trips and 18 features for each trip. These features included information such as trip duration, trip distance, destination, vendor, tolls, payment type, and fare amount.
 A new feature was also created to identify whether a trip took place during rush hour or not. Several redundant columns were removed, and the remaining data was converted into the appropriate data types to prepare it for modeling.
 
 ## Modeling and Evaluation
